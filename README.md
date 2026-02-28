@@ -8,3 +8,7 @@
 ## Запуск тестов:
 ```bash
 python -m unittest test_functions.py -v
+## Задача 2: API Яндекс.Диска — 5 тестов 
+
+```bash
+python -m unittest test_yandex_disk.py -v
